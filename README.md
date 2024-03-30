@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+
+
+There are several ways to create a combined project with React and Flask. I prefer to start from the frontend because the project structure is much more complex than the backend. For this example I used the create-react-app generator to create a simple React project to start from:
+
+$ npx create-react-app react-flask-app
+$ cd react-flask-app
